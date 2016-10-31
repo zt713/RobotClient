@@ -53,6 +53,7 @@ public class MainApplication extends Application
       //test2
       //test3
       //test4
+      //test5
       Utils.PrintLog(5, MainApplication.this.LOGTAG, "ChangeNetWork");
 
     }
