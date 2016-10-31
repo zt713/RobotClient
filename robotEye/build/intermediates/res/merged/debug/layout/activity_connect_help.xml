@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:background="@color/help_title_bg" android:layout_width="fill_parent" android:layout_height="@dimen/title_height">
+        <Button android:textColor="@android:color/white" android:id="@id/help_back" android:background="@drawable/help_back_btn" android:layout_width="@dimen/help_back_btn_width" android:layout_height="@dimen/help_back_btn_height" android:layout_marginLeft="@dimen/control_text_margin_border" android:text="返回" android:layout_centerVertical="true" />
+    </RelativeLayout>
+    <ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <LinearLayout android:orientation="vertical" android:paddingLeft="20.0dip" android:paddingRight="20.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/help_text_margin_top">
+                <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="远程监控" style="@style/help_title" />
+                <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="第一步：开启机器人，将机器人平板连上WiFi网络（机器人接入互联网）；" style="@style/help_content" />
+                <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="第二步：打开手机/平板网络设置，将手机/平板连接网络；" style="@style/help_content" />
+                <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="第三步：将机器人和手机/平板都成功连上互联网，手机/平板启用CANBOT应用千里眼即可远程连接机器人。" style="@style/help_content" />
+            </LinearLayout>
+            <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/help_text_margin_top">
+                <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="本地直连" style="@style/help_title" />
+                <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="第一步：开启机器人，机器人平板没有连接WiFi网络（机器人未接入互联网）；" style="@style/help_content" />
+                <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="第二步：打开手机/平板网络设置，搜索机器人自带WiFi信号（U03s xxxxxx）；" style="@style/help_content" />
+                <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="第三步：手机/平板成功连接机器人自带WiFi信号后，手机/平板启用CANBOT应用千里眼即可本地直连机器人。" style="@style/help_content" />
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

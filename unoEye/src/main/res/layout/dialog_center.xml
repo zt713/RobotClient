@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="31.0dip" android:layout_marginRight="31.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:id="@id/layout_dialogcenter" android:background="@drawable/bk_dialog" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TextView android:textSize="17.0sp" android:gravity="center" android:id="@id/tv_dialogcenter" android:layout_width="200.0dip" android:layout_height="wrap_content" android:layout_marginTop="20.0dip" android:text="" android:layout_centerInParent="true" />
+    </RelativeLayout>
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/layout_dialogcenter">
+        <Button android:textSize="18.0sp" android:textColor="#ff04a7ba" android:gravity="center" android:layout_gravity="center" android:id="@id/btn_dialogleft" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" android:layout_alignParentLeft="true" />
+        <Button android:textSize="18.0sp" android:textColor="#ff04a7ba" android:gravity="center" android:layout_gravity="center" android:id="@id/btn_dialogright" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" android:layout_alignParentRight="true" />
+    </LinearLayout>
+</RelativeLayout>

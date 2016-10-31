@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="#ffffffff" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:id="@id/relativeLayount1" android:background="@drawable/bk_header" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <Button android:id="@id/btn_header_nav" android:background="@drawable/btn_nav" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="12.0dip" android:layout_alignParentLeft="true" android:layout_centerVertical="true" android:onClick="back" />
+        <TextView android:textSize="20.0sp" android:textColor="#ffffffff" android:id="@id/tv_header" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="使用条款和隐私政策" android:layout_centerInParent="true" />
+    </RelativeLayout>
+    <com.chinatel.robotclient.protocol.show.BorderScrollView android:id="@id/contentScroll" android:scrollbars="vertical" android:fadingEdge="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginLeft="15.0dip" android:layout_marginTop="17.0dip" android:layout_marginRight="15.0dip" android:layout_above="@id/linearLayout2" android:layout_below="@id/relativeLayount1" android:layout_centerHorizontal="true">
+        <LinearLayout android:orientation="vertical" android:id="@id/linearlayout" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    </com.chinatel.robotclient.protocol.show.BorderScrollView>
+    <LinearLayout android:orientation="horizontal" android:id="@id/linearLayout2" android:layout_width="fill_parent" android:layout_height="17.0dip" android:layout_alignParentBottom="true" />
+</RelativeLayout>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <CheckBox android:id="@id/calllog_select" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="20.0dip" android:button="@drawable/checkbox_style" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+    <RelativeLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="60.0dip" android:layout_toLeftOf="@id/calllog_select">
+        <View android:id="@id/calllog_top_line" android:background="@color/calllog_line" android:layout_width="fill_parent" android:layout_height="0.5dip" />
+        <LinearLayout android:padding="10.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_below="@id/calllog_top_line">
+            <ImageView android:layout_gravity="center_vertical" android:id="@id/call_in_or_out" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/call_in" />
+            <ImageView android:layout_gravity="center_vertical" android:id="@id/avatar" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:src="@drawable/avatar_man" />
+            <RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginLeft="10.0dip">
+                <TextView android:textSize="16.0sp" android:textColor="@android:color/white" android:id="@id/name" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="小优" />
+                <LinearLayout android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentBottom="true">
+                    <ImageView android:layout_gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/time_icon" />
+                    <TextView android:gravity="center_vertical" android:layout_gravity="center_vertical" android:id="@id/duration" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:text="00:10:15" style="@style/calllog_desc" />
+                </LinearLayout>
+                <TextView android:id="@id/date" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="15-4-29" android:layout_alignParentRight="true" style="@style/calllog_desc" />
+                <TextView android:id="@id/time" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="09:33" android:layout_alignParentRight="true" android:layout_alignParentBottom="true" style="@style/calllog_desc" />
+            </RelativeLayout>
+        </LinearLayout>
+    </RelativeLayout>
+</RelativeLayout>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.chinatel.robotclient"
+    android:versionCode="20160217"
+    android:versionName="2016.02.17" >
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="adnroid.permission.ACCESS_CHECKIN_PROPERTTES" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.FLASHLIGHT" />
+    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+
+    <uses-permission android:name="android.permission.DISABLE_KEYGUARD" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+
+    <supports-screens
+        android:anyDensity="true"
+        android:largeScreens="true"
+        android:normalScreens="true"
+        android:resizeable="true"
+        android:smallScreens="true" />
+
+    <application
+        android:name="cn.wangjianlog.baseframework.MainApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/icon_launcher"
+        android:label="@string/app_name"
+        android:theme="@android:style/Theme.Light.NoTitleBar" >
+        <service android:name="rtc.sdk.impl.SdkService" >
+            <intent-filter>
+                <action android:name="rtc.sdk.service" />
+            </intent-filter>
+        </service>
+
+        <receiver android:name="com.chinatel.robotclient.receiver.BootBroadcastReceiver" >
+            <intent-filter android:priority="2147483647" >
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+            </intent-filter>
+        </receiver>
+
+        <activity
+            android:name="com.chinatel.robotclient.activity.ManualConnectActivity"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.chinatel.robotclient.activity.ProtocolShowActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.chinatel.robotclient.activity.HomeActivity"
+            android:label="@string/app_name"
+            android:launchMode="singleTop"
+            android:theme="@android:style/Theme.NoDisplay" />
+        <activity
+            android:name="com.chinatel.robotclient.activity.CaptureActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+            </intent-filter>
+        </activity>
+        <!-- <activity android:name=".activity.ManualConnectActivity" android:screenOrientation="portrait" /> -->
+        <activity
+            android:name="com.chinatel.robotclient.activity.ConnectRobotActivity"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.NoDisplay" />
+        <activity
+            android:name="com.chinatel.robotclient.activity.ConnectActivity"
+            android:configChanges="orientation|screenSize"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.Light.NoTitleBar.Fullscreen" />
+        <activity
+            android:name="com.chinatel.robotclient.activity.ControlActivity"
+            android:configChanges="orientation|screenSize"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.Light.NoTitleBar.Fullscreen" />
+        <activity
+            android:name="com.chinatel.robotclient.activity.ConnectHelpActivity"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.Light.NoTitleBar.Fullscreen" />
+        <activity
+            android:name="com.chinatel.robotclient.activity.ConnectFailedActivity"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.Light.NoTitleBar.Fullscreen" />
+        <activity
+            android:name="com.chinatel.robotclient.activity.IsCalledActivity"
+            android:configChanges="orientation|screenSize"
+            android:excludeFromRecents="true"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Wallpaper.NoTitleBar" />
+        <activity
+            android:name="com.chinatel.robotclient.activity.CallPageActivity"
+            android:configChanges="orientation|screenSize"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.Light.NoTitleBar.Fullscreen" />
+
+        <receiver android:name="com.chinatel.robotclient.receiver.IsCallReceiver" >
+            <intent-filter>
+                <action android:name="com.chinatel.robotclient.IS_CALL_RECEIVER" />
+            </intent-filter>
+        </receiver>
+    </application>
+
+</manifest>

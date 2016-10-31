@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <SurfaceView android:layout_gravity="center" android:id="@id/preview_view" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_centerInParent="true" />
+    <com.chinatel.robotclient.camera.ViewfinderView android:id="@id/viewfinder_view" android:background="@color/transparent" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    <TextView android:textSize="14.0sp" android:textColor="#ff959698" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="将取景框对准机器" android:layout_above="@id/tv_0" android:layout_centerHorizontal="true" />
+    <TextView android:textSize="14.0sp" android:textColor="#ff959698" android:id="@id/tv_0" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="100.0dip" android:text="人屏幕上的二维码" android:layout_above="@id/btn_scanning" android:layout_centerHorizontal="true" />
+    <Button android:id="@id/btn_scanning" android:background="@drawable/btn_scannig" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:layout_marginRight="10.0dip" android:layout_marginBottom="53.0dip" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" android:onClick="onScanning" />
+</RelativeLayout>

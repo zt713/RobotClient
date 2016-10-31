@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:descendantFocusability="blocksDescendants" android:layout_width="fill_parent" android:layout_height="88.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:app="http://schemas.android.com/apk/res/com.chinatel.robot">
+    <View android:background="@drawable/callrec_spreator" android:layout_width="fill_parent" android:layout_height="1.0dip" android:layout_alignParentTop="true" />
+    <ImageView android:id="@id/img_callrec_label" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:src="@drawable/callrec_come" android:layout_centerVertical="true" />
+    <com.chinatel.robot.View.RoundImageView android:id="@id/bt_callrec_head" android:background="@drawable/callrec_head_01" android:layout_width="100.0dip" android:layout_height="100.0dip" android:layout_marginLeft="20.0dip" android:layout_toRightOf="@id/img_callrec_label" app:type="round" />
+    <TextView android:textSize="22.0sp" android:id="@id/tv_callrec_name" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="7.0dip" android:layout_marginTop="10.0dip" android:text="爸爸" android:layout_toRightOf="@id/bt_callrec_head" />
+    <ImageView android:id="@id/iv_time" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="7.0dip" android:layout_marginBottom="20.0dip" android:src="@drawable/time_icon" android:layout_toRightOf="@id/bt_callrec_head" android:layout_alignParentBottom="true" />
+    <TextView android:id="@id/tv_duration" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="4.0dip" android:layout_marginBottom="20.0dip" android:text="00:12:30" android:layout_toRightOf="@id/iv_time" android:layout_alignParentBottom="true" />
+    <TextView android:id="@id/tv_callrec_date" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:layout_marginRight="50.0dip" android:text="15-4-29" android:layout_alignParentRight="true" />
+    <TextView android:id="@id/tv_callrec_time" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="50.0dip" android:layout_marginBottom="20.0dip" android:text="09:33" android:layout_alignParentRight="true" android:layout_alignParentBottom="true" />
+    <CheckBox android:id="@id/cb_status" android:background="@drawable/cb_callrec" android:focusable="false" android:visibility="gone" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="10.0dip" android:button="@null" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+</RelativeLayout>

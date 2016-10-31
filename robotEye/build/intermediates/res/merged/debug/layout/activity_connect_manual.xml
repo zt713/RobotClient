@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#ffffffff">
+
+    <RelativeLayout
+        android:id="@id/layout_input0"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_above="@id/layout_input1">
+
+        <ImageView
+            android:id="@id/image_logo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:background="@drawable/bk_logo" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@id/layout_input1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/layout_input2"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="10.0dip"
+        android:layout_marginRight="10.0dip"
+        android:background="@drawable/bk_input">
+
+        <ImageView
+            android:id="@id/image_user"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="16.0dip"
+            android:background="@drawable/bk_user" />
+
+        <EditText
+            android:id="@id/edit_name"
+            android:layout_width="200.0dip"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="23.0dip"
+            android:layout_toLeftOf="@id/btn_delete"
+            android:layout_toRightOf="@id/image_user"
+            android:background="@null"
+            android:gravity="center_vertical"
+            android:singleLine="true"
+            android:textSize="17.0sp" />
+
+        <Button
+            android:id="@id/btn_spinner"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="16.0dip"
+            android:background="@drawable/bk_arrow_down"
+            android:onClick="onClickSpinner" />
+
+        <Button
+            android:id="@id/btn_delete"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="8.0dip"
+            android:layout_toLeftOf="@id/btn_spinner"
+            android:background="@drawable/btn_delete"
+            android:onClick="onClickDelete" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@id/layout_input2"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/layout_input3"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="10.0dip"
+        android:layout_marginRight="10.0dip"
+        android:layout_marginTop="10.0dip"
+        android:background="@drawable/bk_input">
+
+        <ImageView
+            android:id="@id/image_password"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="16.0dip"
+            android:background="@drawable/bk_password" />
+
+        <EditText
+            android:id="@id/edit_password"
+            android:layout_width="200.0dip"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="23.0dip"
+            android:layout_toRightOf="@id/image_password"
+            android:background="@null"
+            android:gravity="center_vertical"
+            android:inputType="textPassword"
+            android:singleLine="true" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@id/layout_input3"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/layout_input5"
+        android:layout_marginTop="13.0dip">
+
+        <RelativeLayout
+            android:id="@id/layout_input4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="10.0dip"
+            android:clickable="true"
+            android:onClick="onClickChoice">
+
+            <Button
+                android:id="@id/btn_choice"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:background="@drawable/btn_choice" />
+
+            <TextView
+                android:id="@id/tv1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_toRightOf="@id/btn_choice"
+                android:text="已阅读并同意"
+                android:textColor="#ffa8a8aa"
+                android:textSize="12.0sp" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@id/layout_input55"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@id/layout_input4"
+            android:clickable="true"
+            android:onClick="protocolshow">
+
+            <TextView
+                android:id="@id/tv_legal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:text="《使用条款和隐私政策》"
+                android:textColor="#ff04a7ba"
+                android:textSize="12.0sp" />
+        </RelativeLayout>
+
+        <TextView
+            android:id="@id/tv2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10.0dip"
+            android:clickable="true"
+            android:onClick="onClickForgetPassword"
+            android:text="忘记密码？"
+            android:textColor="#ffa8a8aa"
+            android:textSize="12.0sp" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@id/layout_input5"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/layout_input6"
+        android:layout_marginBottom="30.0dip"
+        android:layout_marginTop="30.0dip">
+
+        <TextView
+            android:id="@id/tv_1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:gravity="center"
+            android:text="请让机器人身边的家人告知您屏"
+            android:textColor="#ffa8a8aa"
+            android:textSize="12.0sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tv_1"
+            android:layout_centerHorizontal="true"
+            android:gravity="center"
+            android:text="幕二维码边上的机器人ID和密码"
+            android:textColor="#ffa8a8aa"
+            android:textSize="12.0sp" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@id/layout_input6"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="43.0dip">
+
+        <Button
+            android:id="@+id/btn_connect2"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10.0dip"
+            android:layout_marginRight="10.0dip"
+            android:background="@drawable/btn_connect2"
+            android:onClick="onClickConnect2" />
+
+        <Button
+            android:id="@id/btn_connect1"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/btn_connect2"
+            android:layout_marginLeft="10.0dip"
+            android:layout_marginRight="10.0dip"
+            android:layout_marginTop="8.0dip"
+            android:background="@drawable/btn_connect1"
+            android:onClick="onClickConnect1" />
+    </RelativeLayout>
+</RelativeLayout>

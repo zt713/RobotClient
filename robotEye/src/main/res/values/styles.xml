@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="SF_dialogCustom" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+        <item name="android:windowSoftInputMode">adjustPan</item>
+    </style>
+    <style name="SF_pressDialogCustom" parent="@style/SF_dialogCustom">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="lineStyleHorizontal">
+        <item name="android:background">@color/line</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">@dimen/line_height</item>
+    </style>
+    <style name="lineStyleVertical">
+        <item name="android:background">@color/line</item>
+        <item name="android:layout_width">@dimen/line_height</item>
+        <item name="android:layout_height">fill_parent</item>
+    </style>
+    <style name="RadioType">
+        <item name="android:textSize">@dimen/radiotype_text_size</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_width">0.0dip</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_margin">0.0dip</item>
+        <item name="android:button">@null</item>
+        <item name="android:layout_weight">1.0</item>
+    </style>
+    <style name="little_menu_bg">
+        <item name="android:background">@android:color/white</item>
+    </style>
+    <style name="little_item_tran">
+        <item name="android:background">@android:color/transparent</item>
+    </style>
+    <style name="directionBtn">
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:layout_width">30.0dip</item>
+        <item name="android:layout_height">30.0dip</item>
+    </style>
+    <style name="help_title">
+        <item name="android:textSize">18.0sp</item>
+    </style>
+    <style name="help_content">
+        <item name="android:textSize">14.0sp</item>
+    </style>
+    <style name="calllog_desc">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:textColor">@color/calllog_item_desc_color</item>
+    </style>
+    <style name="popwindow_anim_style">
+        <item name="android:windowEnterAnimation">@anim/window_show</item>
+        <item name="android:windowExitAnimation">@anim/window_close</item>
+    </style>
+    <style name="dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+    </style>
+</resources>

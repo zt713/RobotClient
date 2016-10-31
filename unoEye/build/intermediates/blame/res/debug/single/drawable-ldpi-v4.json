@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\btn_back_t.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-ldpi\\btn_back_t.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\btn_next_f.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-ldpi\\btn_next_f.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\img_picture_f.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-ldpi\\img_picture_f.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\img_header_f.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-ldpi\\img_header_f.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\btn_ok_f.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-ldpi\\btn_ok_f.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\topbg.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-ldpi\\topbg.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\btn_jump_t.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-ldpi\\btn_jump_t.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\btn_jump_f.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-ldpi\\btn_jump_f.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\img_header_t.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-ldpi\\img_header_t.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\btn_finish_gray.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-ldpi\\btn_finish_gray.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\btn_back_f.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-ldpi\\btn_back_f.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\btn_next_t.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-ldpi\\btn_next_t.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\img_picture_t.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-ldpi\\img_picture_t.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\img_snap_f.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-ldpi\\img_snap_f.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\btn_finish_f.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-ldpi\\btn_finish_f.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\btn_finish_t.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-ldpi\\btn_finish_t.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\img_snap_t.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-ldpi\\img_snap_t.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\btn_ok_t.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-ldpi\\btn_ok_t.png"
+    }
+]

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="toast_textview_margin">20.0dip</dimen>
+    <dimen name="title_height">44.0dip</dimen>
+    <dimen name="call_title_height">44.0dip</dimen>
+    <dimen name="line_height">0.5dip</dimen>
+    <dimen name="home_big_menu">140.0dip</dimen>
+    <dimen name="home_little_menu">100.0dip</dimen>
+    <dimen name="main_radiogroup_padding_top">5.0dip</dimen>
+    <dimen name="radiotype_text_size">10.0sp</dimen>
+    <dimen name="bottom_bar_height">60.0dip</dimen>
+    <dimen name="control_width">130.0dip</dimen>
+    <dimen name="control_height">150.0dip</dimen>
+    <dimen name="control_text_margin_top">21.0dip</dimen>
+    <dimen name="control_text_margin_border">20.0dip</dimen>
+    <dimen name="control_text_margin_right">20.0dip</dimen>
+    <dimen name="control_margin_bottom">30.0dip</dimen>
+    <dimen name="control_margin_border">20.0dip</dimen>
+    <dimen name="connect_failed_menu_margin">15.0dip</dimen>
+    <dimen name="connect_failed_btn_margin">20.0dip</dimen>
+    <dimen name="connect_failed_btn_height">30.0dip</dimen>
+    <dimen name="connect_failed_btn_radius">5.0dip</dimen>
+    <dimen name="help_back_btn_width">80.0dip</dimen>
+    <dimen name="help_back_btn_height">30.0dip</dimen>
+    <dimen name="help_text_margin_top">20.0dip</dimen>
+    <dimen name="calllog_line_width">5.0dip</dimen>
+    <dimen name="calllog_bottom_line_width">3.0dip</dimen>
+    <dimen name="window_small_width">140.0dip</dimen>
+    <dimen name="window_small_height">90.0dip</dimen>
+    <dimen name="window_small_margin_top">20.0dip</dimen>
+    <dimen name="window_small_margin_right">20.0dip</dimen>
+    <dimen name="call_page_margin_bottom">20.0dip</dimen>
+</resources>

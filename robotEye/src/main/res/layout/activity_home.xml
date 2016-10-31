@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:background="@color/app_bg" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Button android:id="@id/long_eye" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="千里眼" />
+    <LinearLayout android:orientation="vertical" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_below="@id/long_eye">
+        <Button android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="测试外网连接失败界面" android:onClick="onlineConnectFailedTest" />
+        <Button android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="测试外网连接成功界面" android:onClick="onlineConnectSuccessTest" />
+        <Button android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="测试wifi连接失败界面" android:onClick="wifiConnectFailedTest" />
+        <Button android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="测试wifi连接成功界面" android:onClick="wifiConnectSuccessTest" />
+        <Button android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="测试被叫界面" android:onClick="called" />
+    </LinearLayout>
+</RelativeLayout>

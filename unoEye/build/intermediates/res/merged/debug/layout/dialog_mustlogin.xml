@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:background="@drawable/dialog_mustlogin_bg" android:layout_width="300.0dip" android:layout_height="200.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="20.0sp" android:id="@id/dialog_mustlogin_text" android:layout_width="300.0dip" android:layout_height="wrap_content" android:layout_margin="10.0dip" android:text="您还没有登录机器人账号，该功能还无法使用！" android:lines="2" android:layout_centerInParent="true" />
+    <Button android:id="@id/bt_dialog_mustlogin" android:background="@drawable/dialog_mustlogin_setting" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="15.0dip" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" />
+</RelativeLayout>

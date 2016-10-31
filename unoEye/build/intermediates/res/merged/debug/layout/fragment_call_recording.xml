@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <ImageView android:layout_gravity="center" android:id="@id/img_no_content" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/img_no_content" />
+        <RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <Button android:id="@id/bt_cancel" android:background="@drawable/btn_call_recording_cancel" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="20.0dip" android:layout_marginTop="10.0dip" />
+            <Button android:id="@id/bt_delete" android:background="@drawable/btn_call_recording_delete" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="20.0dip" android:layout_alignTop="@id/bt_cancel" android:layout_alignParentRight="true" />
+            <ListView android:id="@id/lv_call_recording" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_marginLeft="150.0dip" android:layout_marginTop="0.0dip" android:layout_marginRight="150.0dip" android:layout_centerHorizontal="true" />
+        </RelativeLayout>
+    </FrameLayout>
+</LinearLayout>

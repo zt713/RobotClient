@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_cancel_selector.xml",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable\\btn_cancel_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_back_selector.xml",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable\\btn_back_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable\\progressbar_drawable.xml",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable\\progressbar_drawable.xml"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_finish_selector.xml",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable\\btn_finish_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_bottom_bg.xml",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable\\dialog_bottom_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_edittext.xml",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable\\bg_edittext.xml"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_yes.xml",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable\\btn_yes.xml"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_jump_selector.xml",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable\\btn_jump_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_next_selector.xml",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable\\btn_next_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_edittext_focused.xml",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable\\bg_edittext_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable\\line_dialog_divide.xml",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable\\line_dialog_divide.xml"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable\\img_header_selector.xml",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable\\img_header_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_no.xml",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable\\btn_no.xml"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable\\img_snap_selector.xml",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable\\img_snap_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable\\img_picture_selector.xml",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable\\img_picture_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_edittext_normal.xml",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable\\bg_edittext_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_no_selector.xml",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable\\btn_no_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_shutter_background.xml",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable\\btn_shutter_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_ok_selector.xml",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable\\btn_ok_selector.xml"
+    }
+]

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center_horizontal" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0">
+        <com.chinatel.robot.View.RoundImageView android:id="@id/img_mumber_head" android:layout_width="50.0dip" android:layout_height="50.0dip" android:layout_marginLeft="150.0dip" android:src="@drawable/img_header_selector" borderRadius="20dp" />
+    </LinearLayout>
+    <LinearLayout android:gravity="center_horizontal" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0">
+        <TextView android:gravity="center" android:id="@id/et_name" android:background="@drawable/et_bule_bg" android:layout_width="90.0dip" android:layout_height="30.0dip" android:text="老王" />
+    </LinearLayout>
+    <LinearLayout android:gravity="center_horizontal" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0">
+        <TextView android:gravity="center" android:id="@id/tv_phonetype" android:background="@drawable/tv_bule_bg" android:layout_width="120.0dip" android:layout_height="30.0dip" android:layout_marginLeft="70.0dip" android:text="小米M4" />
+    </LinearLayout>
+    <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0">
+        <ToggleButton android:id="@id/tb_intercept" android:background="@drawable/bg_tb_intercept" android:layout_width="wrap_content" android:layout_height="wrap_content" android:checked="true" android:textOn="" android:textOff="" android:text="" />
+        <Button android:id="@id/bt_delete2" android:background="@drawable/btn_tb_delete" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="30.0dip" />
+    </LinearLayout>
+</LinearLayout>

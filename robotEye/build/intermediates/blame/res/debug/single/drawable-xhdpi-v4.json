@@ -1,0 +1,562 @@
+[
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_cancel_normal.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\btn_cancel_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\cancle_normal.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\cancle_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\head_select.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\head_select.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_nav_down.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\btn_nav_down.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_con_normal.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\btn_con_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\progress_small11.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\progress_small11.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\img_scanning12.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\img_scanning12.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\is_call_icon.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\is_call_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\silde4.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\silde4.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\progress_small09.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\progress_small09.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\progress_big03.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\progress_big03.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_confirm1_normal.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\btn_confirm1_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\progress_big02.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\progress_big02.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\img_scanning2.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\img_scanning2.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\progress_small12.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\progress_small12.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\sf_progress_2.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\sf_progress_2.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_setting_normal.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\btn_setting_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_left_normal.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\btn_left_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pop_box.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\pop_box.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\call_page_small_bg.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\call_page_small_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bk_header.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\bk_header.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_con1_down.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\btn_con1_down.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\img_scanning11.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\img_scanning11.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\control_call_select.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\control_call_select.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\sf_progress_4.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\sf_progress_4.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bk_scanning.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\bk_scanning.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\img_scanning3.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\img_scanning3.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bk_user.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\bk_user.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\sf_progress_1.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\sf_progress_1.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\up_select.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\up_select.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\close_calllog.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\close_calllog.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\call_page_normal.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\call_page_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\circle.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\circle.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\control_home_selected.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\control_home_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\silde3.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\silde3.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\body_select.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\body_select.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_nav_normal.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\btn_nav_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\progress_small06.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\progress_small06.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_con1_normal.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\btn_con1_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\down_select.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\down_select.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_setting_down.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\btn_setting_down.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\progress_big06.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\progress_big06.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\call_out.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\call_out.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\img_scanning15.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\img_scanning15.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\img_scanning14.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\img_scanning14.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\call_page_select.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\call_page_select.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\top_call_log.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\top_call_log.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\progress_big05.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\progress_big05.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_con_down.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\btn_con_down.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\progress_small07.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\progress_small07.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\sf_progress_5.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\sf_progress_5.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_scanning_down.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\btn_scanning_down.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\arrows.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\arrows.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nodify.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\nodify.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\toggle_btn_unchecked.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\toggle_btn_unchecked.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_radio_normal.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\btn_radio_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\is_called_bg.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\is_called_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\progress_small10.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\progress_small10.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\delete_normal.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\delete_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\silde5.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\silde5.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\left_select.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\left_select.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\silde2.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\silde2.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\remote_control.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\remote_control.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\control_photo_normal.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\control_photo_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\xiaoyou.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\xiaoyou.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\img_scanning4.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\img_scanning4.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\right_select.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\right_select.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\progress_big12.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\progress_big12.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\is_call_eye.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\is_call_eye.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\checkbox_normal.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\checkbox_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\img_scanning1.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\img_scanning1.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bk_arrow_down.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\bk_arrow_down.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_delete_normal.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\btn_delete_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\img_scanning7.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\img_scanning7.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\control_call_normal.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\control_call_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\progress_small03.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\progress_small03.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\progress_big08.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\progress_big08.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\progress_big11.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\progress_big11.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\control_photo_select.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\control_photo_select.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\progress_big10.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\progress_big10.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\progress_big09.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\progress_big09.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\sf_progress_8.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\sf_progress_8.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\account_select3x.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\account_select3x.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\img_scanning6.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\img_scanning6.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\sf_progress_7.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\sf_progress_7.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\blue_bg.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\blue_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bk_input.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\bk_input.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\head_normal.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\head_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\progress_small04.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\progress_small04.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\hang_up.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\hang_up.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_delete_down.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\btn_delete_down.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\progress_small01.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\progress_small01.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\img_scanning8.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\img_scanning8.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bk_password.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\bk_password.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\is_call_avatar.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\is_call_avatar.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_right_down.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\btn_right_down.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\toggle_btn_checked.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\toggle_btn_checked.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\silde1.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\silde1.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_con_close.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\btn_con_close.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\account_normal3x.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\account_normal3x.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bk_logo.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\bk_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_launcher.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\icon_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bk_dialog.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\bk_dialog.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\up_normal.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\up_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\delete_select.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\delete_select.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\img_scanning5.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\img_scanning5.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\cancal_select.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\cancal_select.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_u.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\icon_u.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\down_normal.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\down_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\local_message.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\local_message.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\img_scanning9.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\img_scanning9.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\left_normal.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\left_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\logo_lenovo.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\logo_lenovo.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\progress_big04.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\progress_big04.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\body_normal.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\body_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\control_home_normal.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\control_home_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\call_in.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\call_in.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_confirm1_down.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\btn_confirm1_down.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\progress_big01.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\progress_big01.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\img_scanning13.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\img_scanning13.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_cancel_down.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\btn_cancel_down.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\img_scanning10.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\img_scanning10.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\right_normal.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\right_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\answer.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\answer.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\avatar_man.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\avatar_man.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\logo.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_left_down.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\btn_left_down.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\progress_small08.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\progress_small08.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\eye_icon.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\eye_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\checkbox_pressed.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\checkbox_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_scanning_normal.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\btn_scanning_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\is_calling.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\is_calling.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\time_icon.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\time_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\sf_progress_6.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\sf_progress_6.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\progress_small02.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\progress_small02.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_radio_select.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\btn_radio_select.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\progress_big07.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\progress_big07.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_right_normal.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\btn_right_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\progress_small05.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\progress_small05.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\sf_progress_3.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\drawable-xhdpi\\sf_progress_3.png"
+    }
+]

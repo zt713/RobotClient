@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <FrameLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+
+        <GridView
+            android:id="@+id/gridv_members"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_marginTop="15.0dip"
+            android:numColumns="4"
+            android:verticalSpacing="10.0dip" />
+
+        <RelativeLayout
+            android:id="@+id/no_data"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:background="#00ff0000"
+            android:visibility="gone" >
+
+            <TextView
+                android:id="@+id/tv_11"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="50.0px"
+                android:text="您还没有添加家庭成员!"
+                android:textSize="32.0px" />
+
+            <ImageView
+                android:id="@+id/ewm"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="56.0px"
+                android:layout_marginTop="122.0px"
+                android:src="@drawable/ewm" />
+
+            <RelativeLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/tv_11"
+                android:layout_marginLeft="33.0px"
+                android:layout_toRightOf="@+id/ewm"
+                android:background="#00ffff00" >
+
+                <TextView
+                    android:id="@+id/tv_12"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="25.0px"
+                    android:text="家庭成员添加流程 ："
+                    android:textSize="25.0px" />
+
+                <TextView
+                    android:id="@+id/tv_13"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignLeft="@+id/tv_12"
+                    android:layout_below="@+id/tv_12"
+                    android:layout_marginTop="14.0px"
+                    android:text="第一步：手机/平板下载安装  &apos;&apos;千里眼客户端&apos;&apos;  应用;"
+                    android:textSize="25.0px" />
+
+                <TextView
+                    android:id="@+id/tv_14"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignLeft="@+id/tv_12"
+                    android:layout_below="@+id/tv_13"
+                    android:layout_marginTop="15.0px"
+                    android:text="第二步：打开手机/平板  &apos;&apos;千里眼客户端&apos;&apos;  应用扫描 "
+                    android:textSize="25.0px" />
+
+                <Button
+                    android:id="@+id/bt_lookQR"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignLeft="@+id/tv_12"
+                    android:layout_below="@+id/tv_14"
+                    android:layout_marginLeft="98.0dip"
+                    android:layout_marginTop="15.0px"
+                    android:background="#ffefefef"
+                    android:text="机器人ID二维码"
+                    android:textColor="#ff1212fd"
+                    android:textSize="25.0px" />
+
+                <TextView
+                    android:id="@+id/tv_15"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignTop="@+id/bt_lookQR"
+                    android:layout_toRightOf="@+id/bt_lookQR"
+                    android:text="或填写机器人ID向机器人"
+                    android:textSize="25.0px" />
+
+                <TextView
+                    android:id="@+id/tv_152"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignLeft="@+id/bt_lookQR"
+                    android:layout_below="@+id/bt_lookQR"
+                    android:layout_marginTop="15.0px"
+                    android:text="小优发送连接请求;"
+                    android:textSize="25.0px" />
+
+                <TextView
+                    android:id="@+id/tv_16"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignLeft="@+id/tv_12"
+                    android:layout_below="@+id/tv_152"
+                    android:layout_marginTop="15.0px"
+                    android:text="第三步：在机器人本体操作允许连接等设置；"
+                    android:textSize="25.0px" />
+            </RelativeLayout>
+        </RelativeLayout>
+    </FrameLayout>
+
+</RelativeLayout>

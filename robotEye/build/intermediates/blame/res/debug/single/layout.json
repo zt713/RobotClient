@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\layout\\activity_is_called.xml",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\layout\\activity_is_called.xml"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\layout\\activity_connent_capture.xml",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\layout\\activity_connent_capture.xml"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\layout\\activity_control.xml",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\layout\\activity_control.xml"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_download.xml",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\layout\\dialog_download.xml"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\layout\\activity_connect.xml",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\layout\\activity_connect.xml"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\layout\\sf_view_custom_progress_dialog.xml",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\layout\\sf_view_custom_progress_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\layout\\protocol_show.xml",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\layout\\protocol_show.xml"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\layout\\toast.xml",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\layout\\toast.xml"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\layout\\activity_call_page.xml",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\layout\\activity_call_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_center.xml",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\layout\\dialog_center.xml"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\layout\\call_item.xml",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\layout\\call_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\layout\\listview_name_item.xml",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\layout\\listview_name_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\layout\\activity_connect_manual.xml",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\layout\\activity_connect_manual.xml"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\layout\\activity_connect_help.xml",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\layout\\activity_connect_help.xml"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_unarrowed.xml",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\layout\\dialog_unarrowed.xml"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\layout\\popwindow.xml",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\layout\\popwindow.xml"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\layout\\activity_connect_failed.xml",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\layout\\activity_connect_failed.xml"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\layout\\init1.xml",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\layout\\init1.xml"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\layout\\call_log_window.xml",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\layout\\call_log_window.xml"
+    }
+]

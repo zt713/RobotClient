@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\anim\\push_left_in.xml",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\anim\\push_left_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\anim\\window_show.xml",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\anim\\window_show.xml"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\anim\\sf_progress_dialog_anim.xml",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\anim\\sf_progress_dialog_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\anim\\window_close.xml",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\anim\\window_close.xml"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\anim\\push_right_in.xml",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\anim\\push_right_in.xml"
+    }
+]

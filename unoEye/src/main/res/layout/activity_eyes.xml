@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@id/tab_layout"
+        android:layout_width="fill_parent"
+        android:layout_height="73.0px"
+        android:background="@drawable/topbg"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true" >
+
+            <Button
+                android:id="@id/member_bt"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="1.0"
+                android:background="@drawable/topbg"
+                android:gravity="center"
+                android:text="family member"
+                android:textColor="@color/select_text_color"
+                android:textSize="26.0sp" />
+
+            <Button
+                android:id="@id/calllog_bt"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="1.0"
+                android:background="@drawable/topbg"
+                android:gravity="center"
+                android:text="@string/calllogs"
+                android:textColor="@color/white"
+                android:textSize="26.0sp" />
+        </LinearLayout>
+
+        <ImageView
+            android:id="@id/img_trans_bar"
+            android:layout_width="515.0dip"
+            android:layout_height="2.0dip"
+            android:layout_alignParentBottom="true"
+            android:background="@drawable/tab_line"
+            android:gravity="center" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+
+        <FrameLayout
+            android:id="@id/content"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent" />
+    </RelativeLayout>
+
+</LinearLayout>

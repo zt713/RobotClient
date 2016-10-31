@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/is_called_bg"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/title_height"
+        android:background="@drawable/hang_up">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="上滑挂断"
+            android:textColor="@android:color/white"
+            android:textSize="18.0sp" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/answer_down"
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/title_height"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/answer">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="下滑接听"
+            android:textColor="@android:color/white"
+            android:textSize="18.0sp" />
+    </RelativeLayout>
+
+    <ImageView
+        android:id="@+id/instruction"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/answer_down"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="20.0dip" />
+
+    <RelativeLayout
+        android:id="@+id/card"
+        android:layout_width="218.0dip"
+        android:layout_height="300.0dip"
+        android:layout_centerInParent="true"
+        android:background="@drawable/is_call_sliding_block"
+        android:clickable="true">
+
+        <LinearLayout
+            android:id="@+id/is_call_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="30.0dip"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_gravity="center_vertical"
+                android:src="@drawable/is_call_eye" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:text="千里眼"
+                android:textColor="@android:color/black"
+                android:textSize="18.0sp"
+                android:textStyle="bold" />
+        </LinearLayout>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/is_call_title"
+            android:layout_centerHorizontal="true"
+            android:src="@drawable/is_call_avatar" />
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="50.0dip"
+            android:orientation="vertical"
+            android:paddingLeft="10.0dip"
+            android:paddingRight="10.0dip">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:text="小优来电"
+                android:textColor="@android:color/black"
+                android:textSize="18.0sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/is_call_toast"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="10.0dip"
+                android:text="当前为WiFi网络，通话完全免费"
+                android:textColor="@android:color/black"
+                android:textSize="14.0sp" />
+        </LinearLayout>
+    </RelativeLayout>
+</RelativeLayout>

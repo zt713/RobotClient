@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <com.chinatel.robot.View.RoundImageView android:id="@id/iv_item" android:layout_width="185.0dip" android:layout_height="185.0dip" android:src="@drawable/gridview_head" android:layout_centerInParent="true" />
+        <ImageView android:id="@id/iv_item_bg" android:visibility="visible" android:layout_width="200.0dip" android:layout_height="200.0dip" android:src="@drawable/gridview_head_bg" android:layout_centerInParent="true" />
+        <TextView android:textSize="16.0sp" android:textColor="@color/white" android:id="@id/tv_number_name" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="7.0dip" android:text="爸爸" android:layout_alignBottom="@id/iv_item_bg" android:layout_centerHorizontal="true" />
+    </RelativeLayout>
+</LinearLayout>

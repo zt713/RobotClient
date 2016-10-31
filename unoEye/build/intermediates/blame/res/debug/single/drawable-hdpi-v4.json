@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dialog_divide_line_item.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-hdpi\\dialog_divide_line_item.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_dialog_settingwifi.xml",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-hdpi\\btn_dialog_settingwifi.xml"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_call_recording_delete.xml",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-hdpi\\btn_call_recording_delete.xml"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_tb_intercept.xml",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-hdpi\\bg_tb_intercept.xml"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_dialog_cancel_t.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-hdpi\\btn_dialog_cancel_t.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\clip.jpg",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-hdpi\\clip.jpg"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_dialog_cancel_f.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-hdpi\\btn_dialog_cancel_f.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_bg_camera.xml",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-hdpi\\btn_bg_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_bg_hangup2.xml",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-hdpi\\btn_bg_hangup2.xml"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\animation_head.xml",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-hdpi\\animation_head.xml"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_bg_hangup.xml",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-hdpi\\btn_bg_hangup.xml"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_dialog_settingwifi_cancel.xml",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-hdpi\\btn_dialog_settingwifi_cancel.xml"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cb_callrec.xml",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-hdpi\\cb_callrec.xml"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_bombbox.9.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-hdpi\\bg_bombbox.9.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_tb_delete.xml",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-hdpi\\btn_tb_delete.xml"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_call_recording_cancel.xml",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-hdpi\\btn_call_recording_cancel.xml"
+    }
+]

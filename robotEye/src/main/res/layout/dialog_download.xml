@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/layout_download" android:background="@drawable/pop_box" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="31.0dip" android:layout_marginRight="31.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ProgressBar android:id="@id/progress_download" android:layout_width="fill_parent" android:layout_height="13.0dip" android:layout_marginLeft="2.0dip" android:layout_marginRight="2.0dip" android:max="100" android:progress="0" android:progressDrawable="@drawable/progressbar_drawable" android:layout_centerInParent="true" style="?android:attr/progressBarStyleHorizontal" />
+    <TextView android:textSize="32.0sp" android:id="@id/tv_download" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="0%" android:layout_below="@id/progress" android:layout_centerHorizontal="true" />
+</RelativeLayout>

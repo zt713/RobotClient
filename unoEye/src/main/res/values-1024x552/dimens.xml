@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16.0dip</dimen>
+    <dimen name="activity_vertical_margin">16.0dip</dimen>
+    <dimen name="clip_size">450.0dip</dimen>
+    <dimen name="grid_item_border">185.0dip</dimen>
+    <dimen name="grid_item_content">200.0dip</dimen>
+    <dimen name="marbin_bottom_item">7.0dip</dimen>
+</resources>

@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="app_bg">#ffdcdddf</color>
+    <color name="black_list_desc">#ff999999</color>
+    <color name="bottom_normal">#ff005afe</color>
+    <color name="bottom_select">#ff0043bc</color>
+    <color name="call_block">#ffb6b6b6</color>
+    <color name="call_page_small_bg">#ff515252</color>
+    <color name="calllog_bg">#7222231a</color>
+    <color name="calllog_item_desc_color">#ff838680</color>
+    <color name="calllog_line">#ff838680</color>
+    <color name="calllog_tab_bg">#ff429ef5</color>
+    <color name="color_bg_normal">#ffe7e7e8</color>
+    <color name="color_bg_selected">#ffe0301e</color>
+    <color name="connect_failed_bg">#ff0d2a3b</color>
+    <color name="connect_failed_btn_normal">#ff0093d1</color>
+    <color name="connect_failed_btn_select">#ff006793</color>
+    <color name="connect_failed_btn_select_bg">#ff006793</color>
+    <color name="connect_failed_title_bg">#ff3589f3</color>
+    <color name="connect_help_text_color">#ff33a9da</color>
+    <color name="connect_setting_btn_border_normal">#ff0093d1</color>
+    <color name="connect_setting_btn_border_select">#ff006793</color>
+    <color name="help_title_bg">#ff419df4</color>
+    <color name="line">#ffcecfd0</color>
+    <color name="possible_result_points">#c0ffff00</color>
+    <color name="red">#ffdc143c</color>
+    <color name="result_view">#b0000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="viewfinder_frame">#ff000000</color>
+    <color name="viewfinder_laser">#ffff0000</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <dimen name="bottom_bar_height">60.0dip</dimen>
+    <dimen name="call_page_margin_bottom">20.0dip</dimen>
+    <dimen name="call_title_height">44.0dip</dimen>
+    <dimen name="calllog_bottom_line_width">3.0dip</dimen>
+    <dimen name="calllog_line_width">5.0dip</dimen>
+    <dimen name="connect_failed_btn_height">30.0dip</dimen>
+    <dimen name="connect_failed_btn_margin">20.0dip</dimen>
+    <dimen name="connect_failed_btn_radius">5.0dip</dimen>
+    <dimen name="connect_failed_menu_margin">15.0dip</dimen>
+    <dimen name="control_height">150.0dip</dimen>
+    <dimen name="control_margin_border">20.0dip</dimen>
+    <dimen name="control_margin_bottom">30.0dip</dimen>
+    <dimen name="control_text_margin_border">20.0dip</dimen>
+    <dimen name="control_text_margin_right">20.0dip</dimen>
+    <dimen name="control_text_margin_top">21.0dip</dimen>
+    <dimen name="control_width">130.0dip</dimen>
+    <dimen name="help_back_btn_height">30.0dip</dimen>
+    <dimen name="help_back_btn_width">80.0dip</dimen>
+    <dimen name="help_text_margin_top">20.0dip</dimen>
+    <dimen name="home_big_menu">140.0dip</dimen>
+    <dimen name="home_little_menu">100.0dip</dimen>
+    <dimen name="line_height">0.5dip</dimen>
+    <dimen name="main_radiogroup_padding_top">5.0dip</dimen>
+    <dimen name="radiotype_text_size">10.0sp</dimen>
+    <dimen name="title_height">44.0dip</dimen>
+    <dimen name="toast_textview_margin">20.0dip</dimen>
+    <dimen name="window_small_height">90.0dip</dimen>
+    <dimen name="window_small_margin_right">20.0dip</dimen>
+    <dimen name="window_small_margin_top">20.0dip</dimen>
+    <dimen name="window_small_width">140.0dip</dimen>
+    <item name="aa" type="id">false</item>
+    <item name="action_settings" type="id">false</item>
+    <item name="all_call_listview" type="id">false</item>
+    <item name="allcall_btn" type="id">false</item>
+    <item name="answer_down" type="id">false</item>
+    <item name="auto_focus" type="id"/>
+    <item name="avatar" type="id">false</item>
+    <item name="body_down" type="id">false</item>
+    <item name="body_left" type="id">false</item>
+    <item name="body_right" type="id">false</item>
+    <item name="body_stop" type="id">false</item>
+    <item name="body_up" type="id">false</item>
+    <item name="btn_choice" type="id">false</item>
+    <item name="btn_connect1" type="id">false</item>
+    <item name="btn_connect2" type="id">false</item>
+    <item name="btn_delete" type="id">false</item>
+    <item name="btn_dialogarrowed_confirm" type="id">false</item>
+    <item name="btn_dialogleft" type="id">false</item>
+    <item name="btn_dialogright" type="id">false</item>
+    <item name="btn_header_nav" type="id">false</item>
+    <item name="btn_scanning" type="id">false</item>
+    <item name="btn_spinner" type="id">false</item>
+    <item name="call_bottom_line" type="id">false</item>
+    <item name="call_in_or_out" type="id">false</item>
+    <item name="call_log_page_btn" type="id">false</item>
+    <item name="calllog_select" type="id">false</item>
+    <item name="calllog_top_line" type="id">false</item>
+    <item name="camera_call_page" type="id">false</item>
+    <item name="camera_control" type="id">false</item>
+    <item name="card" type="id">false</item>
+    <item name="close_calllog_btn" type="id">false</item>
+    <item name="connect_again" type="id">false</item>
+    <item name="connect_desc" type="id">false</item>
+    <item name="container" type="id">false</item>
+    <item name="contentScroll" type="id">false</item>
+    <item name="control_body" type="id">false</item>
+    <item name="control_head" type="id">false</item>
+    <item name="control_info" type="id">false</item>
+    <item name="date" type="id">false</item>
+    <item name="decode" type="id"/>
+    <item name="decode_failed" type="id"/>
+    <item name="decode_succeeded" type="id"/>
+    <item name="delete_cancle" type="id">false</item>
+    <item name="delete_ok" type="id">false</item>
+    <item name="duration" type="id">false</item>
+    <item name="edit_name" type="id">false</item>
+    <item name="edit_password" type="id">false</item>
+    <item name="encode_failed" type="id"/>
+    <item name="encode_succeeded" type="id"/>
+    <item name="go_account" type="id">false</item>
+    <item name="go_account2" type="id">false</item>
+    <item name="go_account3" type="id">false</item>
+    <item name="go_call_log" type="id">false</item>
+    <item name="go_call_page" type="id">false</item>
+    <item name="go_help" type="id">false</item>
+    <item name="go_home" type="id">false</item>
+    <item name="go_setting" type="id">false</item>
+    <item name="hang_up" type="id">false</item>
+    <item name="head_center" type="id">false</item>
+    <item name="head_down" type="id">false</item>
+    <item name="head_left" type="id">false</item>
+    <item name="head_right" type="id">false</item>
+    <item name="head_up" type="id">false</item>
+    <item name="help_back" type="id">false</item>
+    <item name="image_logo" type="id">false</item>
+    <item name="image_password" type="id">false</item>
+    <item name="image_user" type="id">false</item>
+    <item name="instruction" type="id">false</item>
+    <item name="is_call_title" type="id">false</item>
+    <item name="is_call_toast" type="id">false</item>
+    <item name="launch_product_query" type="id"/>
+    <item name="layout_dialogcenter" type="id">false</item>
+    <item name="layout_dialogunarrowed" type="id">false</item>
+    <item name="layout_download" type="id">false</item>
+    <item name="layout_input0" type="id">false</item>
+    <item name="layout_input1" type="id">false</item>
+    <item name="layout_input2" type="id">false</item>
+    <item name="layout_input3" type="id">false</item>
+    <item name="layout_input4" type="id">false</item>
+    <item name="layout_input5" type="id">false</item>
+    <item name="layout_input55" type="id">false</item>
+    <item name="layout_input6" type="id">false</item>
+    <item name="linearLayout2" type="id">false</item>
+    <item name="linearlayout" type="id">false</item>
+    <item name="listview_popwindow" type="id">false</item>
+    <item name="long_eye" type="id">false</item>
+    <item name="misscall_btn" type="id">false</item>
+    <item name="name" type="id">false</item>
+    <item name="preview_view" type="id">false</item>
+    <item name="progress" type="id">false</item>
+    <item name="progress_big" type="id">false</item>
+    <item name="progress_download" type="id">false</item>
+    <item name="progress_small" type="id">false</item>
+    <item name="quit" type="id"/>
+    <item name="relativeLayount1" type="id">false</item>
+    <item name="restart_preview" type="id"/>
+    <item name="return_scan_result" type="id"/>
+    <item name="search_book_contents_failed" type="id"/>
+    <item name="search_book_contents_succeeded" type="id"/>
+    <item name="sf_iv_progress_dialog_loading" type="id">false</item>
+    <item name="sf_tv_progress_dialog_loading" type="id">false</item>
+    <item name="tab" type="id">false</item>
+    <item name="time" type="id">false</item>
+    <item name="tv1" type="id">false</item>
+    <item name="tv2" type="id">false</item>
+    <item name="tv_0" type="id">false</item>
+    <item name="tv_1" type="id">false</item>
+    <item name="tv_dialogcenter" type="id">false</item>
+    <item name="tv_dialogunarrowed" type="id">false</item>
+    <item name="tv_download" type="id">false</item>
+    <item name="tv_header" type="id">false</item>
+    <item name="tv_legal" type="id">false</item>
+    <item name="tv_listview_name" type="id">false</item>
+    <item name="tv_toast" type="id">false</item>
+    <item name="video_call_page_bg" type="id">false</item>
+    <item name="video_call_page_small" type="id">false</item>
+    <item name="video_camera" type="id">false</item>
+    <item name="video_control" type="id">false</item>
+    <item name="viewfinder_view" type="id">false</item>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">天眼</string>
+    <string name="connect_again">请检查机器人和手机的网络设置</string>
+    <string name="connect_failed">小优不在线！</string>
+    <string name="connect_go_setting">确定</string>
+    <string name="connect_help">连接帮助</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="home_title">My Robot</string>
+    <string name="internet_error">请检查网络连接</string>
+    <string name="long_eye">千里眼</string>
+    <string name="nonetwork">当前网络不可用请检查网络设置</string>
+    <string name="smart_health_care">健康医疗</string>
+    <string name="smart_home">智能家居</string>
+    <string name="smart_more_app">更多应用</string>
+    <string name="smart_preschool_education">幼教功能</string>
+    <string name="smart_recreation">娱乐功能</string>
+    <string name="smart_remind">智能提醒</string>
+    <string name="unarrowedconnect">呃~机器人未允许你的连接请求</string>
+    <string name="update_title">"发现新的版本!更新后会开启更多惊喜哦!"</string>
+    <style name="RadioType">
+        <item name="android:textSize">@dimen/radiotype_text_size</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_width">0.0dip</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_margin">0.0dip</item>
+        <item name="android:button">@null</item>
+        <item name="android:layout_weight">1.0</item>
+    </style>
+    <style name="SF_dialogCustom" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+        <item name="android:windowSoftInputMode">adjustPan</item>
+    </style>
+    <style name="SF_pressDialogCustom" parent="@style/SF_dialogCustom">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="calllog_desc">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:textColor">@color/calllog_item_desc_color</item>
+    </style>
+    <style name="dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+    </style>
+    <style name="directionBtn">
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:layout_width">30.0dip</item>
+        <item name="android:layout_height">30.0dip</item>
+    </style>
+    <style name="help_content">
+        <item name="android:textSize">14.0sp</item>
+    </style>
+    <style name="help_title">
+        <item name="android:textSize">18.0sp</item>
+    </style>
+    <style name="lineStyleHorizontal">
+        <item name="android:background">@color/line</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">@dimen/line_height</item>
+    </style>
+    <style name="lineStyleVertical">
+        <item name="android:background">@color/line</item>
+        <item name="android:layout_width">@dimen/line_height</item>
+        <item name="android:layout_height">fill_parent</item>
+    </style>
+    <style name="little_item_tran">
+        <item name="android:background">@android:color/transparent</item>
+    </style>
+    <style name="little_menu_bg">
+        <item name="android:background">@android:color/white</item>
+    </style>
+    <style name="popwindow_anim_style">
+        <item name="android:windowEnterAnimation">@anim/window_show</item>
+        <item name="android:windowExitAnimation">@anim/window_close</item>
+    </style>
+</resources>

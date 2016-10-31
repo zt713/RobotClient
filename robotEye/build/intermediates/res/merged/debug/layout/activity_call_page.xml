@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/blue_bg">
+
+    <RelativeLayout
+        android:id="@+id/video_call_page_bg"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+
+        <ImageView
+            android:id="@+id/progress_big"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/video_call_page_small"
+        android:layout_width="@dimen/window_small_width"
+        android:layout_height="@dimen/window_small_height"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="@dimen/window_small_margin_right"
+        android:layout_marginTop="@dimen/window_small_margin_top"
+        android:background="@drawable/call_page_small_bg">
+
+        <ImageView
+            android:id="@+id/progress_small"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:src="@drawable/progress_small" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="@dimen/call_page_margin_bottom"
+        android:orientation="horizontal">
+
+        <ImageButton
+            android:id="@+id/camera_call_page"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@android:color/transparent"
+            android:src="@drawable/control_photo_click" />
+
+        <ImageButton
+            android:id="@+id/hang_up"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20.0dip"
+            android:background="@android:color/transparent"
+            android:src="@drawable/call_page_btn_click" />
+    </LinearLayout>
+
+    <ImageButton
+        android:id="@+id/call_log_page_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="40.0dip"
+        android:layout_centerHorizontal="true"
+        android:background="@android:color/transparent"
+        android:src="@drawable/top_call_log" />
+
+    <LinearLayout
+        android:layout_width="73.0dip"
+        android:layout_height="30.0dip"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="23.0dip"
+        android:layout_marginTop="19.0dip"
+        android:orientation="vertical">
+
+        <ImageButton
+            android:id="@+id/go_account3"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:background="@android:color/transparent"
+            android:scaleType="centerCrop"
+            android:src="@drawable/control_account_click" />
+    </LinearLayout>
+</RelativeLayout>

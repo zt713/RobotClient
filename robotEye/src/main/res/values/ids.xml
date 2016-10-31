@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="auto_focus" />
+    <item type="id" name="decode" />
+    <item type="id" name="decode_failed" />
+    <item type="id" name="decode_succeeded" />
+    <item type="id" name="encode_failed" />
+    <item type="id" name="encode_succeeded" />
+    <item type="id" name="launch_product_query" />
+    <item type="id" name="quit" />
+    <item type="id" name="restart_preview" />
+    <item type="id" name="return_scan_result" />
+    <item type="id" name="search_book_contents_failed" />
+    <item type="id" name="search_book_contents_succeeded" />
+    <item type="id" name="video_call_page_bg">false</item>
+    <item type="id" name="progress_big">false</item>
+    <item type="id" name="video_call_page_small">false</item>
+    <item type="id" name="progress_small">false</item>
+    <item type="id" name="camera_call_page">false</item>
+    <item type="id" name="hang_up">false</item>
+    <item type="id" name="call_log_page_btn">false</item>
+    <item type="id" name="go_account3">false</item>
+    <item type="id" name="connect_desc">false</item>
+    <item type="id" name="go_account">false</item>
+    <item type="id" name="connect_again">false</item>
+    <item type="id" name="go_setting">false</item>
+    <item type="id" name="go_home">false</item>
+    <item type="id" name="go_help">false</item>
+    <item type="id" name="help_back">false</item>
+    <item type="id" name="layout_input0">false</item>
+    <item type="id" name="layout_input1">false</item>
+    <item type="id" name="image_logo">false</item>
+    <item type="id" name="layout_input2">false</item>
+    <item type="id" name="image_user">false</item>
+    <item type="id" name="edit_name">false</item>
+    <item type="id" name="btn_delete">false</item>
+    <item type="id" name="btn_spinner">false</item>
+    <item type="id" name="layout_input3">false</item>
+    <item type="id" name="image_password">false</item>
+    <item type="id" name="edit_password">false</item>
+    <item type="id" name="layout_input5">false</item>
+    <item type="id" name="layout_input4">false</item>
+    <item type="id" name="btn_choice">false</item>
+    <item type="id" name="tv1">false</item>
+    <item type="id" name="layout_input55">false</item>
+    <item type="id" name="tv_legal">false</item>
+    <item type="id" name="tv2">false</item>
+    <item type="id" name="layout_input6">false</item>
+    <item type="id" name="tv_1">false</item>
+    <item type="id" name="btn_connect2">false</item>
+    <item type="id" name="btn_connect1">false</item>
+    <item type="id" name="preview_view">false</item>
+    <item type="id" name="viewfinder_view">false</item>
+    <item type="id" name="tv_0">false</item>
+    <item type="id" name="btn_scanning">false</item>
+    <item type="id" name="video_control">false</item>
+    <item type="id" name="video_camera">false</item>
+    <item type="id" name="control_head">false</item>
+    <item type="id" name="head_up">false</item>
+    <item type="id" name="head_down">false</item>
+    <item type="id" name="head_left">false</item>
+    <item type="id" name="head_right">false</item>
+    <item type="id" name="head_center">false</item>
+    <item type="id" name="control_body">false</item>
+    <item type="id" name="body_up">false</item>
+    <item type="id" name="body_down">false</item>
+    <item type="id" name="body_left">false</item>
+    <item type="id" name="body_right">false</item>
+    <item type="id" name="body_stop">false</item>
+    <item type="id" name="camera_control">false</item>
+    <item type="id" name="go_call_page">false</item>
+    <item type="id" name="control_info">false</item>
+    <item type="id" name="go_call_log">false</item>
+    <item type="id" name="go_account2">false</item>
+    <item type="id" name="long_eye">false</item>
+    <item type="id" name="answer_down">false</item>
+    <item type="id" name="instruction">false</item>
+    <item type="id" name="card">false</item>
+    <item type="id" name="is_call_title">false</item>
+    <item type="id" name="is_call_toast">false</item>
+    <item type="id" name="calllog_select">false</item>
+    <item type="id" name="calllog_top_line">false</item>
+    <item type="id" name="call_in_or_out">false</item>
+    <item type="id" name="avatar">false</item>
+    <item type="id" name="name">false</item>
+    <item type="id" name="duration">false</item>
+    <item type="id" name="date">false</item>
+    <item type="id" name="time">false</item>
+    <item type="id" name="tab">false</item>
+    <item type="id" name="allcall_btn">false</item>
+    <item type="id" name="misscall_btn">false</item>
+    <item type="id" name="delete_cancle">false</item>
+    <item type="id" name="delete_ok">false</item>
+    <item type="id" name="call_bottom_line">false</item>
+    <item type="id" name="container">false</item>
+    <item type="id" name="all_call_listview">false</item>
+    <item type="id" name="close_calllog_btn">false</item>
+    <item type="id" name="layout_dialogcenter">false</item>
+    <item type="id" name="tv_dialogcenter">false</item>
+    <item type="id" name="btn_dialogleft">false</item>
+    <item type="id" name="btn_dialogright">false</item>
+    <item type="id" name="layout_download">false</item>
+    <item type="id" name="progress_download">false</item>
+    <item type="id" name="tv_download">false</item>
+    <item type="id" name="progress">false</item>
+    <item type="id" name="layout_dialogunarrowed">false</item>
+    <item type="id" name="tv_dialogunarrowed">false</item>
+    <item type="id" name="btn_dialogarrowed_confirm">false</item>
+    <item type="id" name="aa">false</item>
+    <item type="id" name="tv_listview_name">false</item>
+    <item type="id" name="listview_popwindow">false</item>
+    <item type="id" name="relativeLayount1">false</item>
+    <item type="id" name="btn_header_nav">false</item>
+    <item type="id" name="tv_header">false</item>
+    <item type="id" name="contentScroll">false</item>
+    <item type="id" name="linearLayout2">false</item>
+    <item type="id" name="linearlayout">false</item>
+    <item type="id" name="sf_iv_progress_dialog_loading">false</item>
+    <item type="id" name="sf_tv_progress_dialog_loading">false</item>
+    <item type="id" name="tv_toast">false</item>
+    <item type="id" name="action_settings">false</item>
+</resources>

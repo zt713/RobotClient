@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black_list_desc">#ff999999</color>
+    <color name="red">#ffdc143c</color>
+    <color name="line">#ffcecfd0</color>
+    <color name="color_bg_selected">#ffe0301e</color>
+    <color name="color_bg_normal">#ffe7e7e8</color>
+    <color name="bottom_select">#ff0043bc</color>
+    <color name="bottom_normal">#ff005afe</color>
+    <color name="app_bg">#ffdcdddf</color>
+    <color name="connect_failed_title_bg">#ff3589f3</color>
+    <color name="connect_failed_bg">#ff0d2a3b</color>
+    <color name="connect_failed_btn_normal">#ff0093d1</color>
+    <color name="connect_failed_btn_select">#ff006793</color>
+    <color name="connect_failed_btn_select_bg">#ff006793</color>
+    <color name="connect_setting_btn_border_normal">#ff0093d1</color>
+    <color name="connect_setting_btn_border_select">#ff006793</color>
+    <color name="connect_help_text_color">#ff33a9da</color>
+    <color name="help_title_bg">#ff419df4</color>
+    <color name="calllog_line">#ff838680</color>
+    <color name="calllog_tab_bg">#ff429ef5</color>
+    <color name="calllog_item_desc_color">#ff838680</color>
+    <color name="call_block">#ffb6b6b6</color>
+    <color name="calllog_bg">#7222231a</color>
+    <color name="call_page_small_bg">#ff515252</color>
+    <color name="viewfinder_frame">#ff000000</color>
+    <color name="viewfinder_laser">#ffff0000</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="possible_result_points">#c0ffff00</color>
+    <color name="result_view">#b0000000</color>
+    <color name="transparent">#00000000</color>
+</resources>

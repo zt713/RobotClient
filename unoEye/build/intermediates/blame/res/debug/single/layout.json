@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\layout\\activity_role_set.xml",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\layout\\activity_role_set.xml"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\layout\\activity_member_manage.xml",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\layout\\activity_member_manage.xml"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\layout\\progress_dialog.xml",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\layout\\progress_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_mustlogin.xml",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\layout\\dialog_mustlogin.xml"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_select_type.xml",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\layout\\dialog_select_type.xml"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_normal_layout.xml",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\layout\\dialog_normal_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_sethead.xml",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\layout\\dialog_sethead.xml"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_call_recording.xml",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\layout\\fragment_call_recording.xml"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\layout\\activity_dialog.xml",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\layout\\activity_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_download.xml",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\layout\\dialog_download.xml"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\layout\\activity_camera.xml",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\layout\\activity_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_center.xml",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\layout\\dialog_center.xml"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_mumber.xml",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\layout\\list_item_mumber.xml"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\layout\\activity_header_clip.xml",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\layout\\activity_header_clip.xml"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\layout\\activity_speaking_before.xml",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\layout\\activity_speaking_before.xml"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\layout\\item_listview_call_recording.xml",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\layout\\item_listview_call_recording.xml"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\layout\\activity_eyes.xml",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\layout\\activity_eyes.xml"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_homemembers.xml",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\layout\\list_item_homemembers.xml"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\layout\\activity_header_set.xml",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\layout\\activity_header_set.xml"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_connect_request.xml",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\layout\\dialog_connect_request.xml"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\layout\\activity_speaking.xml",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\layout\\activity_speaking.xml"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\layout\\fragmen_mumber_manager.xml",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\layout\\fragmen_mumber_manager.xml"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_settingwifi.xml",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\layout\\dialog_settingwifi.xml"
+    }
+]

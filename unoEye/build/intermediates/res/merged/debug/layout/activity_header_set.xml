@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:orientation="horizontal" android:id="@id/layout_top" android:background="@drawable/topbg" android:layout_width="fill_parent" android:layout_height="73.0px" android:layout_alignParentTop="true">
+        <TextView android:textSize="36.0sp" android:textColor="@color/white" android:id="@id/topbg_logo" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/header_set" android:layout_centerInParent="true" />
+        <Button android:gravity="center" android:id="@id/jumpBtn" android:background="@drawable/btn_jump_selector" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="30.0px" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+        <Button android:gravity="center" android:id="@id/nextBtn" android:background="@drawable/btn_next_selector" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="30.0px" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+    </RelativeLayout>
+    <com.chinatel.robot.View.RoundImageView android:id="@id/headerImg" android:layout_width="200.0dip" android:layout_height="200.0dip" android:src="@drawable/img_header_selector" android:layout_centerInParent="true" borderRadius="20dp" type="round" />
+    <TextView android:textSize="20.0sp" android:textColor="#ff858585" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="20.0dip" android:text="给新成员添加一张好看的照片" android:layout_above="@id/headerImg" android:layout_centerHorizontal="true" />
+</RelativeLayout>

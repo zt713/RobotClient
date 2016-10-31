@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="solid_red">#ffff0000</color>
+    <color name="solid_blue">#ff0000ff</color>
+    <color name="solid_green">#ff00ff00</color>
+    <color name="solid_yellow">#ffffff00</color>
+    <color name="solid_gray">#ff808080</color>
+    <color name="solid_black">#ff000000</color>
+    <color name="devide_line">#ff69d3d3</color>
+    <color name="devide_line_black">#ff000000</color>
+    <color name="title_bar_bg">#ff000000</color>
+    <color name="white">#ffffffff</color>
+    <color name="transparent">#00111111</color>
+    <color name="deep_green">#ff077634</color>
+    <color name="home_text_color">#ff666666</color>
+    <color name="select_text_color">#ffffffff</color>
+    <color name="tab_select">#ffe12938</color>
+    <color name="province_line_border">#ffc7c7c7</color>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <stroke android:width="0.5dip" android:color="@color/calllog_tab_bg" />
+    <solid android:color="@color/calllog_tab_bg" />
+    <corners android:topLeftRadius="0.5dip" android:topRightRadius="@dimen/connect_failed_btn_radius" android:bottomLeftRadius="0.5dip" android:bottomRightRadius="@dimen/connect_failed_btn_radius" />
+</shape>

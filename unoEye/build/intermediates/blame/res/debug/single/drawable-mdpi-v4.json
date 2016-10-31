@@ -1,0 +1,354 @@
+[
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\img_no_content.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-mdpi\\img_no_content.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\img_battery_90.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-mdpi\\img_battery_90.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\dialog_mustlogin_bg.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-mdpi\\dialog_mustlogin_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\animation_head_1.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-mdpi\\animation_head_1.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_dialog_cancel_t.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-mdpi\\btn_dialog_cancel_t.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\bt_hangup_nomal.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-mdpi\\bt_hangup_nomal.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\bt_delete_bg_selected.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-mdpi\\bt_delete_bg_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\bt_nanager_selected.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-mdpi\\bt_nanager_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\bt_setting_selected.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-mdpi\\bt_setting_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\bt_game_selected.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-mdpi\\bt_game_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\img_battery_35.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-mdpi\\img_battery_35.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\img_battery_95.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-mdpi\\img_battery_95.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\img_battery_50.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-mdpi\\img_battery_50.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\img_battery_100.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-mdpi\\img_battery_100.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\bt_health_nomal.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-mdpi\\bt_health_nomal.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\dialog_settingwifi_cancel.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-mdpi\\dialog_settingwifi_cancel.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\speaking_head_bg2.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-mdpi\\speaking_head_bg2.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\dialog_settingwifi_cancel_selected.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-mdpi\\dialog_settingwifi_cancel_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\bt_eye_selected.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-mdpi\\bt_eye_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_right_normal.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-mdpi\\btn_right_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\dialog_mustlogin_setting_selected.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-mdpi\\dialog_mustlogin_setting_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\et_red_bg.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-mdpi\\et_red_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\et_bule_bg.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-mdpi\\et_bule_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\img_battery_65.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-mdpi\\img_battery_65.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\tb_off.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-mdpi\\tb_off.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\camera_nomal.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-mdpi\\camera_nomal.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\tb_open.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-mdpi\\tb_open.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_right_down.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-mdpi\\btn_right_down.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\img_battery_80.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-mdpi\\img_battery_80.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\img_battery_75.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-mdpi\\img_battery_75.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\bt_hangup_selected.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-mdpi\\bt_hangup_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\bt_eye_nomal.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-mdpi\\bt_eye_nomal.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\time_icon.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-mdpi\\time_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\img_battery_10_2.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-mdpi\\img_battery_10_2.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\animation_head_3.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-mdpi\\animation_head_3.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\dialog_settingwifi_selected.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-mdpi\\dialog_settingwifi_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\camera_selected.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-mdpi\\camera_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\checkbox_bg_nomal.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-mdpi\\checkbox_bg_nomal.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\animation_head_6.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-mdpi\\animation_head_6.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\dialog_mustlogin_setting.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-mdpi\\dialog_mustlogin_setting.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\bt_cancel_bg_nomal.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-mdpi\\bt_cancel_bg_nomal.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\img_battery_10.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-mdpi\\img_battery_10.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\img_battery_5_2.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-mdpi\\img_battery_5_2.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\hangup_nomal2.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-mdpi\\hangup_nomal2.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\bt_setting_nomal.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-mdpi\\bt_setting_nomal.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\bt_manager_nomal.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-mdpi\\bt_manager_nomal.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\tv_bule_bg.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-mdpi\\tv_bule_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\bt_cancel_bg_selected.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-mdpi\\bt_cancel_bg_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\dialog_settingwifi_nomal.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-mdpi\\dialog_settingwifi_nomal.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\bt_delete_bg_nomal.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-mdpi\\bt_delete_bg_nomal.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\gridview_head.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-mdpi\\gridview_head.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\img_battery_0.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-mdpi\\img_battery_0.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\bt_home_selected.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-mdpi\\bt_home_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\edtext_bg.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-mdpi\\edtext_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\callrec_spreator.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-mdpi\\callrec_spreator.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\callrec_go.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-mdpi\\callrec_go.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\img_battery_85.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-mdpi\\img_battery_85.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\img_battery_45.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-mdpi\\img_battery_45.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\tab_line.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-mdpi\\tab_line.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\gridview_bg.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-mdpi\\gridview_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\hangup_selected2.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-mdpi\\hangup_selected2.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\callrec_head_02.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-mdpi\\callrec_head_02.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\gridview_head_bg.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-mdpi\\gridview_head_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\tb_delete_nomal.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-mdpi\\tb_delete_nomal.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\img_battery_15.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-mdpi\\img_battery_15.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\img_battery_70.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-mdpi\\img_battery_70.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\animation_head_4.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-mdpi\\animation_head_4.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\bigbg.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-mdpi\\bigbg.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\img_battery_15_2.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-mdpi\\img_battery_15_2.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\img_novideo_bg.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-mdpi\\img_novideo_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\animation_head_5.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-mdpi\\animation_head_5.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\callrec_come.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-mdpi\\callrec_come.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\tb_delete_selected.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-mdpi\\tb_delete_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\animation_head_2.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-mdpi\\animation_head_2.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\img_battery_55.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-mdpi\\img_battery_55.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_left_down.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-mdpi\\btn_left_down.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\bt_home_nomal.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-mdpi\\bt_home_nomal.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\checkbox_bg_selected.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-mdpi\\checkbox_bg_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\callrec_head_01.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-mdpi\\callrec_head_01.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\bt_health_selected.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-mdpi\\bt_health_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\img_battery_60.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-mdpi\\img_battery_60.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_left_normal.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-mdpi\\btn_left_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\img_battery_25.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-mdpi\\img_battery_25.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\img_battery_5.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-mdpi\\img_battery_5.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\bt_game_nomal.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-mdpi\\bt_game_nomal.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\dialog_settingwifi_bg.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-mdpi\\dialog_settingwifi_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_dialog_cancel_f.png",
+        "source": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\unoEye\\src\\main\\res\\drawable-mdpi\\btn_dialog_cancel_f.png"
+    }
+]

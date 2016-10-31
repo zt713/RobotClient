@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="@android:style/Theme.Light">
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="FloatDialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@color/solid_black</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowFullscreen">false</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+    <style name="text_cancel_btn" parent="@style/sdw_white">
+        <item name="android:textSize">15.0dip</item>
+        <item name="android:textColor">#ff666666</item>
+    </style>
+    <style name="text_message">
+        <item name="android:textSize">16.0dip</item>
+        <item name="android:textColor">#ff666666</item>
+    </style>
+    <style name="sdw_white">
+        <item name="android:shadowColor">#7fffffff</item>
+        <item name="android:shadowDx">0.0</item>
+        <item name="android:shadowDy">0.65</item>
+        <item name="android:shadowRadius">1.0</item>
+    </style>
+    <style name="text_parent">
+        <item name="android:shadowColor">#ff79351b</item>
+        <item name="android:shadowDx">0.0</item>
+        <item name="android:shadowDy">1.0</item>
+        <item name="android:shadowRadius">1.0</item>
+    </style>
+    <style name="text_title" parent="@style/text_parent">
+        <item name="android:textSize">15.0dip</item>
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+    <style name="text_ok_btn" parent="@style/sdw_white">
+        <item name="android:textSize">15.0dip</item>
+        <item name="android:textColor">#ff666666</item>
+    </style>
+    <style name="Dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:background">#00000000</item>
+    </style>
+    <style name="MyDialogStyle">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+    <style name="dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+    </style>
+</resources>

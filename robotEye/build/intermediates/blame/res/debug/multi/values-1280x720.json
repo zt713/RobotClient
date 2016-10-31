@@ -1,0 +1,577 @@
+[
+    {
+        "outputFile": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\build\\intermediates\\res\\merged\\debug\\values-1280x720\\values-1280x720.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 51,
+                    "endOffset": 102
+                },
+                "from": {
+                    "file": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\values-1280x720\\dimens.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 480,
+                        "endColumn": 51,
+                        "endOffset": 527
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 107,
+                    "endColumn": 57,
+                    "endOffset": 160
+                },
+                "from": {
+                    "file": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\values-1280x720\\dimens.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1684,
+                        "endColumn": 57,
+                        "endOffset": 1737
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 165,
+                    "endColumn": 51,
+                    "endOffset": 212
+                },
+                "from": {
+                    "file": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\values-1280x720\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 162,
+                        "endColumn": 51,
+                        "endOffset": 209
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 217,
+                    "endColumn": 58,
+                    "endOffset": 271
+                },
+                "from": {
+                    "file": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\values-1280x720\\dimens.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1394,
+                        "endColumn": 58,
+                        "endOffset": 1448
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 276,
+                    "endColumn": 51,
+                    "endOffset": 323
+                },
+                "from": {
+                    "file": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\values-1280x720\\dimens.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1341,
+                        "endColumn": 51,
+                        "endOffset": 1388
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 328,
+                    "endColumn": 59,
+                    "endOffset": 383
+                },
+                "from": {
+                    "file": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\values-1280x720\\dimens.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1053,
+                        "endColumn": 59,
+                        "endOffset": 1108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 388,
+                    "endColumn": 59,
+                    "endOffset": 443
+                },
+                "from": {
+                    "file": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\values-1280x720\\dimens.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 992,
+                        "endColumn": 59,
+                        "endOffset": 1047
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 448,
+                    "endColumn": 58,
+                    "endOffset": 502
+                },
+                "from": {
+                    "file": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\values-1280x720\\dimens.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1114,
+                        "endColumn": 58,
+                        "endOffset": 1168
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 507,
+                    "endColumn": 60,
+                    "endOffset": 563
+                },
+                "from": {
+                    "file": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\values-1280x720\\dimens.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 930,
+                        "endColumn": 60,
+                        "endOffset": 986
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 568,
+                    "endColumn": 49,
+                    "endOffset": 613
+                },
+                "from": {
+                    "file": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\values-1280x720\\dimens.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 583,
+                        "endColumn": 49,
+                        "endOffset": 628
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 618,
+                    "endColumn": 55,
+                    "endOffset": 669
+                },
+                "from": {
+                    "file": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\values-1280x720\\dimens.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 873,
+                        "endColumn": 55,
+                        "endOffset": 924
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 674,
+                    "endColumn": 55,
+                    "endOffset": 725
+                },
+                "from": {
+                    "file": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\values-1280x720\\dimens.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 816,
+                        "endColumn": 55,
+                        "endOffset": 867
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 730,
+                    "endColumn": 60,
+                    "endOffset": 786
+                },
+                "from": {
+                    "file": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\values-1280x720\\dimens.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 693,
+                        "endColumn": 60,
+                        "endOffset": 749
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 791,
+                    "endColumn": 59,
+                    "endOffset": 846
+                },
+                "from": {
+                    "file": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\values-1280x720\\dimens.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 755,
+                        "endColumn": 59,
+                        "endOffset": 810
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 851,
+                    "endColumn": 57,
+                    "endOffset": 904
+                },
+                "from": {
+                    "file": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\values-1280x720\\dimens.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 634,
+                        "endColumn": 57,
+                        "endOffset": 687
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 909,
+                    "endColumn": 48,
+                    "endOffset": 953
+                },
+                "from": {
+                    "file": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\values-1280x720\\dimens.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 533,
+                        "endColumn": 48,
+                        "endOffset": 577
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 958,
+                    "endColumn": 54,
+                    "endOffset": 1008
+                },
+                "from": {
+                    "file": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\values-1280x720\\dimens.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1229,
+                        "endColumn": 54,
+                        "endOffset": 1279
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1013,
+                    "endColumn": 53,
+                    "endOffset": 1062
+                },
+                "from": {
+                    "file": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\values-1280x720\\dimens.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1174,
+                        "endColumn": 53,
+                        "endOffset": 1223
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1067,
+                    "endColumn": 54,
+                    "endOffset": 1117
+                },
+                "from": {
+                    "file": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\values-1280x720\\dimens.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1285,
+                        "endColumn": 54,
+                        "endOffset": 1335
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1122,
+                    "endColumn": 48,
+                    "endOffset": 1166
+                },
+                "from": {
+                    "file": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\values-1280x720\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 261,
+                        "endColumn": 48,
+                        "endOffset": 305
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1171,
+                    "endColumn": 51,
+                    "endOffset": 1218
+                },
+                "from": {
+                    "file": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\values-1280x720\\dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 311,
+                        "endColumn": 51,
+                        "endOffset": 358
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1223,
+                    "endColumn": 44,
+                    "endOffset": 1263
+                },
+                "from": {
+                    "file": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\values-1280x720\\dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 215,
+                        "endColumn": 44,
+                        "endOffset": 255
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1268,
+                    "endColumn": 60,
+                    "endOffset": 1324
+                },
+                "from": {
+                    "file": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\values-1280x720\\dimens.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 364,
+                        "endColumn": 60,
+                        "endOffset": 420
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1329,
+                    "endColumn": 52,
+                    "endOffset": 1377
+                },
+                "from": {
+                    "file": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\values-1280x720\\dimens.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 426,
+                        "endColumn": 52,
+                        "endOffset": 474
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1382,
+                    "endColumn": 46,
+                    "endOffset": 1424
+                },
+                "from": {
+                    "file": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\values-1280x720\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 114,
+                        "endColumn": 46,
+                        "endOffset": 156
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1429,
+                    "endColumn": 55,
+                    "endOffset": 1480
+                },
+                "from": {
+                    "file": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\values-1280x720\\dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 55,
+                        "endOffset": 108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1485,
+                    "endColumn": 53,
+                    "endOffset": 1534
+                },
+                "from": {
+                    "file": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\values-1280x720\\dimens.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1509,
+                        "endColumn": 53,
+                        "endOffset": 1558
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1539,
+                    "endColumn": 59,
+                    "endOffset": 1594
+                },
+                "from": {
+                    "file": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\values-1280x720\\dimens.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1623,
+                        "endColumn": 59,
+                        "endOffset": 1678
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1599,
+                    "endColumn": 57,
+                    "endOffset": 1652
+                },
+                "from": {
+                    "file": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\values-1280x720\\dimens.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1564,
+                        "endColumn": 57,
+                        "endOffset": 1617
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1657,
+                    "endColumn": 53,
+                    "endOffset": 1706
+                },
+                "from": {
+                    "file": "C:\\Users\\pp\\AndroidStudioProjects\\RTC\\robotEye\\src\\main\\res\\values-1280x720\\dimens.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1454,
+                        "endColumn": 53,
+                        "endOffset": 1503
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@color/calllog_bg" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:background="@color/calllog_bg" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <RelativeLayout android:layout_width="fill_parent" android:layout_height="@dimen/call_title_height">
+            <TextView android:textSize="18.0sp" android:textColor="@android:color/white" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="通话记录" android:layout_centerInParent="true" />
+        </RelativeLayout>
+        <View android:background="@color/calllog_line" android:layout_width="fill_parent" android:layout_height="@dimen/calllog_line_width" />
+        <RelativeLayout android:layout_width="fill_parent" android:layout_height="@dimen/call_title_height" android:layout_marginTop="10.0dip">
+            <LinearLayout android:orientation="horizontal" android:id="@id/tab" android:background="@drawable/calllog_tab_bg" android:paddingLeft="3.0dip" android:paddingRight="3.0dip" android:layout_width="300.0dip" android:layout_height="46.0dip" android:layout_centerHorizontal="true">
+                <Button android:textSize="18.0sp" android:textColor="@android:color/white" android:layout_gravity="center_vertical" android:id="@id/allcall_btn" android:background="@drawable/calllog_tab_all" android:layout_width="0.0dip" android:layout_height="40.0dip" android:text="全部" android:layout_weight="1.0" />
+                <Button android:textSize="18.0sp" android:textColor="@android:color/white" android:layout_gravity="center_vertical" android:id="@id/misscall_btn" android:background="@drawable/calllog_tab_misscall" android:layout_width="0.0dip" android:layout_height="40.0dip" android:text="未接" android:layout_weight="1.0" />
+            </LinearLayout>
+            <Button android:textSize="18.0sp" android:textColor="@android:color/white" android:id="@id/delete_cancle" android:background="@drawable/cancle_click" android:visibility="invisible" android:layout_width="80.0dip" android:layout_height="40.0dip" android:layout_marginLeft="20.0dip" android:text="取消" android:layout_alignParentLeft="true" android:layout_centerVertical="true" />
+            <Button android:textSize="18.0sp" android:textColor="@android:color/white" android:id="@id/delete_ok" android:background="@drawable/delete_click" android:visibility="invisible" android:layout_width="80.0dip" android:layout_height="40.0dip" android:layout_marginRight="20.0dip" android:text="删除" android:layout_alignRight="@id/tab" android:layout_alignParentRight="true" />
+        </RelativeLayout>
+        <RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <View android:id="@id/call_bottom_line" android:background="@color/calllog_line" android:layout_width="fill_parent" android:layout_height="@dimen/calllog_bottom_line_width" android:layout_marginBottom="50.0dip" android:layout_alignParentBottom="true" />
+            <RelativeLayout android:id="@id/container" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginLeft="70.0dip" android:layout_marginRight="70.0dip" android:layout_above="@id/call_bottom_line">
+                <com.chinatel.robotclient.view.ListViewCallLog android:id="@id/all_call_listview" android:scrollbars="none" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="5.0dip" android:divider="@android:color/transparent" />
+            </RelativeLayout>
+            <ImageButton android:id="@id/close_calllog_btn" android:background="@android:color/transparent" android:layout_width="wrap_content" android:layout_height="30.0dip" android:layout_marginBottom="10.0dip" android:src="@drawable/close_calllog" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" />
+        </RelativeLayout>
+    </LinearLayout>
+</LinearLayout>

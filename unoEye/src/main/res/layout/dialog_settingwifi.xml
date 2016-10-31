@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@drawable/dialog_settingwifi_bg" android:layout_width="559.0dip" android:layout_height="226.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Button android:textSize="20.0sp" android:layout_gravity="center" android:id="@id/bt_dialog_settingwifi" android:background="@drawable/btn_dialog_settingwifi" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="80.0dip" />
+    <Button android:layout_gravity="center_horizontal" android:id="@id/bt_dialog_cancel" android:background="@drawable/btn_dialog_settingwifi_cancel" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="30.0dip" />
+</LinearLayout>

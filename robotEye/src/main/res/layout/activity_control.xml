@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <RelativeLayout
+        android:id="@+id/video_control"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" />
+
+    <RelativeLayout
+        android:id="@+id/video_camera"
+        android:layout_width="0.0dip"
+        android:layout_height="0.0dip"
+        android:layout_alignTop="@id/video_control"
+        android:visibility="invisible" />
+
+    <RelativeLayout
+        android:id="@+id/control_head"
+        android:layout_width="@dimen/control_width"
+        android:layout_height="@dimen/control_width"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="@dimen/control_margin_bottom"
+        android:layout_marginLeft="@dimen/control_margin_border"
+        android:background="@drawable/circle"
+        android:visibility="invisible" >
+
+        <ImageButton
+            android:id="@+id/head_up"
+            style="@style/directionBtn"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:onClick="headUp"
+            android:src="@drawable/ctr_up_click" />
+
+        <ImageButton
+            android:id="@+id/head_down"
+            style="@style/directionBtn"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:onClick="headDown"
+            android:src="@drawable/ctr_down_click" />
+
+        <ImageButton
+            android:id="@+id/head_left"
+            style="@style/directionBtn"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:onClick="headLeft"
+            android:src="@drawable/ctr_left_click" />
+
+        <ImageButton
+            android:id="@+id/head_right"
+            style="@style/directionBtn"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:src="@drawable/ctr_right_click" />
+
+        <ImageButton
+            android:id="@+id/head_center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:background="@android:color/transparent"
+            android:src="@drawable/ctr_head_click" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/control_body"
+        android:layout_width="@dimen/control_width"
+        android:layout_height="@dimen/control_width"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginBottom="@dimen/control_margin_bottom"
+        android:layout_marginRight="@dimen/control_margin_border"
+        android:background="@drawable/circle"
+        android:visibility="invisible" >
+
+        <ImageButton
+            android:id="@+id/body_up"
+            style="@style/directionBtn"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:onClick="bodyUp"
+            android:src="@drawable/ctr_up_click" />
+
+        <ImageButton
+            android:id="@+id/body_down"
+            style="@style/directionBtn"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:onClick="bodyDown"
+            android:src="@drawable/ctr_down_click" />
+
+        <ImageButton
+            android:id="@+id/body_left"
+            style="@style/directionBtn"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:onClick="bodyLeft"
+            android:src="@drawable/ctr_left_click" />
+
+        <ImageButton
+            android:id="@+id/body_right"
+            style="@style/directionBtn"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:onClick="bodyRight"
+            android:src="@drawable/ctr_right_click" />
+
+        <ImageButton
+            android:id="@+id/body_stop"
+            style="@style/directionBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:onClick="bodyStop"
+            android:src="@drawable/ctr_body_click" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="20.0dip"
+        android:orientation="horizontal" >
+
+        <ImageButton
+            android:id="@+id/camera_control"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@android:color/transparent"
+            android:src="@drawable/control_photo_click" />
+
+        <ImageButton
+            android:id="@+id/go_call_page"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20.0dip"
+            android:background="@android:color/transparent"
+            android:src="@drawable/control_call_click" />
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/control_info"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="@dimen/control_text_margin_top"
+        android:layout_marginTop="@dimen/control_text_margin_top"
+        android:src="@drawable/remote_control" />
+
+    <ImageButton
+        android:id="@+id/go_call_log"
+        android:layout_width="wrap_content"
+        android:layout_height="40.0dip"
+        android:layout_centerHorizontal="true"
+        android:background="@android:color/transparent"
+        android:src="@drawable/top_call_log" />
+
+    <LinearLayout
+        android:layout_width="73.0dip"
+        android:layout_height="30.0dip"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="23.0dip"
+        android:layout_marginTop="19.0dip"
+        android:orientation="vertical" >
+
+        <ImageButton
+            android:id="@+id/go_account2"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:background="@android:color/transparent"
+            android:scaleType="centerCrop"
+            android:src="@drawable/control_account_click" />
+    </LinearLayout>
+
+</RelativeLayout>
