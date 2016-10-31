@@ -50,7 +50,8 @@ public class MainApplication extends Application
   {
     private void ChangeNetWork() {
       //test1
-      //test21
+      //test2
+      //test3
       Utils.PrintLog(5, MainApplication.this.LOGTAG, "ChangeNetWork");
 
     }
